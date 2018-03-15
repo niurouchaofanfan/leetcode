@@ -3,8 +3,8 @@
 ======
 代码如下
 -------
-bool isPalindrome(int x) {
 ```
+bool isPalindrome(int x) {
     int z=x;
     int y=0;
     if(x<10 && x>=0){
