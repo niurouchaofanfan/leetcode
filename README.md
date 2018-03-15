@@ -1,4 +1,9 @@
 # leetcode
+验证一个数是不是回文数
+======
+代码如下
+-------
+···
 bool isPalindrome(int x) {
     int z=x;
     int y=0;
@@ -16,3 +21,4 @@ bool isPalindrome(int x) {
     }else
         return false;
 }
+···
